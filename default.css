@@ -4,7 +4,7 @@ h1(
     font-family:
 )
 
-bogy(
+body(
     background-color: gray;
 )
 
@@ -15,6 +15,7 @@ h5, h3(
 
 p(
     text-indent: 20px;
+    color: red;
 )
 
 hr(
